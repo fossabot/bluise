@@ -1,4 +1,5 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flamtonylam%2Fbluise.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flamtonylam%2Fbluise?ref=badge_shield)
+
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
@@ -59,3 +60,7 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flamtonylam%2Fbluise.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flamtonylam%2Fbluise?ref=badge_large)
